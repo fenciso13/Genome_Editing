@@ -1,2 +1,2 @@
 # Genome_Editing
-#![ScreenShot](https://github.com/fenciso13/Potato_MSU/blob/master/pdf/portada.png)
+![ScreenShot](https://github.com/fenciso13/Genome_Editing/blob/master/pdf/portada.png)
